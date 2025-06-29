@@ -21,7 +21,7 @@
 **دستور زیر را روی سرور خود (ترجیحاً Ubuntu 22+) اجرا کنید:**
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/RmnJL/RTT-Secure/refs/heads/main/scripts/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/RmnJL/RTT-Secure/refs/heads/main/install.sh)
 ```
 
 ---
